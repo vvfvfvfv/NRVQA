@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "NRVQA"
 version = "1.0.0"
 description = "Library for PIQE"
-dependencies = []  # Závislosti, pokud nějaké máš
+dependencies = []
 
 [tool.setuptools]
-packages = {find = {"where": "src"}}  # Tohle říká setuptools, kde hledat balíčky
+packages = {find = {"where": "src"}}
