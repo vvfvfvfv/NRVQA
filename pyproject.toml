@@ -6,6 +6,4 @@ build-backend = "setuptools.build_meta"
 name = "NRVQA"
 version = "1.0.0"
 description = "lib"
-
-# Přidání tohoto klíče řekne setuptools, že má použít soubor jako modul
 py-modules = ["piqe"]
