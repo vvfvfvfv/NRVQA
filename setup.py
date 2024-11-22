@@ -1,6 +1,7 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
 setup(
-    name="my_library",
+    name="piqe",
     version="0.1.0",
-    packages=find_packages(include=["piqe", "piqe.*"])
+    py_modules=["piqe"],
+)
