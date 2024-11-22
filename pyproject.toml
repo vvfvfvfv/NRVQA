@@ -8,5 +8,5 @@ version = "1.0.0"
 description = "Library for PIQE"
 dependencies = []
 
-
+[tool.setuptools]
 py-modules = ["piqe"]
