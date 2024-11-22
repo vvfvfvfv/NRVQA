@@ -8,5 +8,5 @@ version = "1.0.0"
 description = "Library for PIQE"
 dependencies = []
 
-[tool.setuptools]
-packages = {find = {"where": "src"}}
+
+py-modules = ["piqe"]
