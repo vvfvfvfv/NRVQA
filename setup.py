@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name="piqe",
-    version="0.1.0",
-    py_modules=["piqe"],
+    name="NRVQA",
+    version="1.0.0",
+    py_modules=["piqe"],  # Říká setuptools, že `piqe.py` je modul
 )
