@@ -6,4 +6,4 @@ build-backend = "setuptools.build_meta"
 name = "NRVQA"
 version = "1.0.0"
 description = "lib"
-py-modules = ["piqe"]
+packages = ["nrvqa"]
